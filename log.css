@@ -1,0 +1,25 @@
+html{
+ background: url('city-4k-gif-wallpaper-gif-wallpapers-hd-pixelstalk-net-the-great-collection-of-hd-gif-wallpapers-for-desktop-laptop-and-mobiles--normalknotu.gif')no-repeat center fixed;
+ background-size: cover;
+ background-size: cover;
+ background-size: cover;
+ 
+}
+.input{
+ width: 335px;
+ background:black;
+ margin: 100px auto;
+ padding: 10px 20px 50px 20px;
+ border-radius: 5px;
+ box-shadow: 0px 10px 20px 0px #D1D1D1;
+}
+.card-header{
+	text-align: center;
+}
+.card-header>h1{
+	color: yellow;
+
+}
+.btn{
+	cursor: pointer;
+}
